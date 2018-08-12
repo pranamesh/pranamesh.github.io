@@ -85,7 +85,7 @@ author:
   location         : "Ames, Iowa, USA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=NimM6-gAAAAJ&hl=en"
-  email            :
+  email            : "pranames@iastate.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -93,13 +93,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "pranamesh"
+  github           : #"pranamesh"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "https://orcid.org/0000-0003-2624-5543"
+  linkedin         : "https://www.linkedin.com/in/pranameshisu/"
+  orcid            : # "https://orcid.org/0000-0003-2624-5543"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
