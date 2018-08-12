@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -31,8 +31,9 @@ Work experience
 ======
 * Fall 2015-Present: Graduate Research Assistant
   * [Insitute of Transportation](http://www.intrans.iastate.edu), Iowa State University
-  * Projects Involved:
-    *
+  * Projects Involved: 
+    * TIMELI
+    
 * Spring 2015: Assistant Professor
   * Department of Civil Engineering, [Techno India University](https://technoindiauniversity.ac.in/)
   * Courses Taught: Traffic Engineering (Elective), 3rd year B.Tech; Soil mechanics, 2nd year B.Tech
@@ -40,4 +41,4 @@ Work experience
   * School of Civil Engineering, [Kalinga Institute of Industrial Technology, Bhubaneswar, India](http://kiit.ac.in/)
   * Courses Taught: Engineering Drawing, 1st Year B.Tech
 * Fall 2012-Spring 2014: Graduate Teaching Assistant
-  
+  *  
