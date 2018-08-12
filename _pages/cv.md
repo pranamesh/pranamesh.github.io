@@ -1,6 +1,5 @@
 ---
-layout: archive
-title: "Resume"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -32,7 +31,7 @@ Work experience
 * Fall 2015-Present: Graduate Research Assistant
   * [Insitute of Transportation](http://www.intrans.iastate.edu), Iowa State University
   * Projects Involved: 
-    * TIMELI
+    * [Traffic Incident Management Enabled by Large Data Innovation (TIMELI)](https://nsf.gov/awardsearch/showAward?AWD_ID=1632116) NSF Project 1632116
     
 * Spring 2015: Assistant Professor
   * Department of Civil Engineering, [Techno India University](https://technoindiauniversity.ac.in/)
