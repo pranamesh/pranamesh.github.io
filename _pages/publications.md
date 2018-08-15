@@ -1,5 +1,5 @@
 ---
-title: "Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
@@ -13,8 +13,8 @@ author_profile: true
 Journal papers
 ======
 1. **P. Chakraborty** and A. Sharma, Public Opinion Analysis of Transportation Policy using Social Media Data: Case Study on the Delhi Odd-Even Policy, *Transportation in Developing Economies* (accepted).
-2. M. Amin-Naseri, **P. Chakraborty**, A. Sharma, S.B. Gilbert, and M. Hong. Evaluating the Reliability, Coverage, and Added Value of Crowdsourced Traffic Incident Reports from Waze. *Transportation Research Record*, https://doi.org/10.1177/0361198118790619, August 2018.
-3. **P. Chakraborty**, Y.O. Adu-Gyamfi, S. Poddar, V. Ahsani, A. Sharma, and S Sarkar. Traffic Congestion Detection from Camera Images using Deep Convolution Neural Networks. *Transportation Research Record*, https://doi.org/10.1177/0361198118777631, June 2018.
+2. M. Amin-Naseri, **P. Chakraborty**, A. Sharma, S.B. Gilbert, and M. Hong. Evaluating the Reliability, Coverage, and Added Value of Crowdsourced Traffic Incident Reports from Waze. *Transportation Research Record*, [https://doi.org/10.1177/0361198118790619]{https://doi.org/10.1177/0361198118790619}, August 2018.
+3. **P. Chakraborty**, Y.O. Adu-Gyamfi, S. Poddar, V. Ahsani, A. Sharma, and S Sarkar. Traffic Congestion Detection from Camera Images using Deep Convolution Neural Networks. *Transportation Research Record*, [https://doi.org/10.1177/0361198118777631]{https://doi.org/10.1177/0361198118777631}, June 2018.
 4. **P Chakraborty** and P Chakroborty. Empirical analysis of short period traffic counts and their efficiency: The case of Indian traffic. *Transportation Planning and Technology*,  vol. 40, no. 7, p812-827, June 2017.
 5. P. Chakroborty, R. Gill, **P. Chakraborty**, Analysing queueing at toll plazas using a coupled, multiple-queue, queueing system model: application to toll plaza design, *Transportation Planning and Technology*,  vol. 39, no. 7, p675-692, July 2016.
 
