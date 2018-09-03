@@ -12,7 +12,7 @@ Education
 ======
 
 * Ph.D in [Iowa State University](https://www.iastate.edu/), 2019 (expected)
-  * Topic: Freeway Traffic Incident Detection using deep learning and big data analytics
+  * Topic: Freeway Traffic Incident Detection using Large Scale Traffic Data and Cameras
   * Advisor: [Dr. Anuj Sharma](https://www.ccee.iastate.edu/directory/?user_page=anujs), [Dr. Chinmay Hegde](http://home.engineering.iastate.edu/~chinmay/).
   * Dept: Civil Engineering. Specialization: Tranportation Engineering. GPA: 4.0/4.0
   
