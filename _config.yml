@@ -48,8 +48,11 @@ staticman:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
+plugins:
+  - jekyll-seo-tag
+  
 # SEO Related
-google_site_verification :
+google_site_verification : "AQn3wLZFYLNrTy12hMWTH4NbGiUpR-A8b8n2XULT3_w"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
