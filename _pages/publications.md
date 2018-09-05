@@ -26,5 +26,5 @@ Conference and workshop papers
 3. S. Poddar, K. Ozcan, **P. Chakraborty**, V. Ahsani, A. Sharma, and S. Sarkar. Comparison of machine learning algorithms to determine traffic congestion from camera images, *Transportation Research Board 96th Annual Meeting*, January 2018.
 4. **P. Chakraborty**, C. Hegde, and A. Sharma. Trend Filtering in Network Time Series, with Applications to Traffic Incident Detection, *NIPS Time Series Workshop (TSW)*, December 2017.
 5. **P Chakraborty**, J.R. Hess, A. Sharma, and S. Knickerbocker. Outlier mining based traffic incident detection using big data analytics, *Transportation Research Board 96th Annual Meeting*, January 2017.
-6. **P. Chakraborty** and P. Chakroborty. Studying the effectiveness of using fuel sales as a proxy for estimating seasonal factors of traffic, *3rd Conference of Transportation Research Group of India*, December 2015.
+6. **P. Chakraborty** and P. Chakroborty. [Studying the effectiveness of using fuel sales as a proxy for estimating seasonal factors of traffic](https://pranamesh.github.io/files/2015-CTRG-Fuel.pdf), *3rd Conference of Transportation Research Group of India*, December 2015.
 7. **P. Chakraborty** and P. Chakroborty. Estimation of Annual Average Daily Traffic (AADT) for Indian Highways, *Transportation Research Board 94th Annual Meeting*, January 2015.
