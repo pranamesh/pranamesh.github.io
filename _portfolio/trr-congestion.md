@@ -1,6 +1,6 @@
 ---
 title: "Traffic Congestion Detection from Camera Images using Deep Convolution Neural Networks"
-excerpt: "In this study we used two different deep learning techniques, you only look once (YOLO) and deep convolution neural network (DCNN), and a shallow algorithm, support vector machine (SVM), to detect traffic congestion from camera images. YOLO and DCCN achieved 91.5% and 90.2% accuracy, respectively, whereas SVM’s accuracy was 85.2%. <br/><img src='/images/cple-image.png'>"
+excerpt: "In this study we used two different deep learning techniques, you only look once (YOLO) and deep convolution neural network (DCNN), and a shallow algorithm, support vector machine (SVM), to detect traffic congestion from camera images. YOLO and DCCN achieved 91.5% and 90.2% accuracy, respectively, whereas SVM’s accuracy was 85.2%. <br/><img src='/images/trr-congestion.jpg'>"
 collection: portfolio
 ---
 
