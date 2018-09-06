@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Freeway Traffic Incident Detection from Cameras: A Semi-Supervised Learning Approach"
+excerpt: "We used semi-supervised techniques in this study to detect traffic incident trajectories from the cameras.<br/><img src='/images/cple-image.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+**Abstract:** Early detection of incidents is a key step to reduce incident related congestion. State Department of Transportation (DoTs) usually install a large number of Close Circuit Television (CCTV) cameras in freeways for traffic surveillance.  In this study, we used semi-supervised techniques to detect traffic incident trajectories from the cameras. Vehicle trajectories are identified from the cameras using state-of-the-art deep learning based You Look Only Once (YOLOv3) classifier and Simple Online Realtime Tracking (SORT) is used for vehicle tracking. Our proposed approach for trajectory classification is based on semi-supervised parameter estimation using maximum-likelihood (ML) estimation. The ML based Contrastive Pessimistic Likelihood Estimation (CPLE) attempts to identify incident trajectories from the normal trajectories. We compared the performance of CPLE algorithm to traditional semi-supervised techniques Self Learning and Label Spreading, and also to the classification based on the corresponding supervised algorithm. Results show that approximately 14\% improvement in trajectory classification can be achieved using the proposed approach. 
