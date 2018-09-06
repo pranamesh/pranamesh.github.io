@@ -1,6 +1,6 @@
 ---
 title: "Freeway Traffic Incident Detection from Cameras: A Semi-Supervised Learning Approach"
-excerpt: "We used semi-supervised techniques to detect traffic incident trajectories from the cameras. Our proposed approach for trajectory classification is based on semi-supervised parameter estimation using maximum-likelihood (ML) estimation. Results show that approximately 14\% improvement in trajectory classification can be achieved using the proposed approach compared to baseline algorithms. <br/><img src='/images/cple-image.png'>"
+excerpt: "We used semi-supervised techniques to detect traffic incident trajectories from the cameras. Our proposed approach for trajectory classification is based on semi-supervised parameter estimation using maximum-likelihood (ML) estimation. Results show that approximately 14% improvement in trajectory classification can be achieved using the proposed approach compared to baseline algorithms. <br/><img src='/images/cple-image.png'>"
 collection: portfolio
 ---
 
