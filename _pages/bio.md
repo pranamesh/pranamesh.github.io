@@ -1,6 +1,6 @@
 ---
 title: ""
-permalink: /cv/
+permalink: /bio/
 author_profile: true
 redirect_from:
   - /resume
@@ -38,9 +38,10 @@ Work experience
   * Department of Civil Engineering, [Techno India University](https://technoindiauniversity.ac.in/)
   * Courses Taught: Traffic Engineering (Elective), 3rd year B.Tech; Soil mechanics, 2nd year B.Tech
 * Fall 2014: Assistant Professor
-  * Department of Civil Engineering, [Kalinga Institute of Industrial Technology, Bhubaneswar, India](http://kiit.ac.in/)
+  * Department of Civil Engineering, [Kalinga Institute of Industrial Technology](http://kiit.ac.in/)
   * Courses Taught: Engineering Drawing, 1st Year B.Tech
 * Fall 2012-Spring 2014: Graduate Teaching Assistant
+  * Department of Civil Engineering, [Indian Institute of Technology Kanpur](https://www.iitk.ac.in/)
   *  Teaching Assistant: Characterization of Pavement Materials and Analysis of Pavements (PG course), Fall 2013
   *  Teaching Assistant: Traffic Safety (UG course), Spring 2014
   *  Projects on Pavement Mix Design by Road Construction Department, Govt. of Bihar; Public Works Department, Etawah, U.P.
