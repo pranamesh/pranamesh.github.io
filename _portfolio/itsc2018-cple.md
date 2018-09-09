@@ -7,7 +7,7 @@ collection: portfolio
 
 **Pranamesh Chakraborty**, Anuj Sharma, Chinmay Hegde
 
-To appear in [IEEE Intelligent Systems Conference, 2018](https://www.ieee-itsc2018.org/)
+To appear in [IEEE Intelligent Transportation Systems Conference, 2018](https://www.ieee-itsc2018.org/)
 
 ![GitHub Logo](/images/cple-image.jpg)
 
