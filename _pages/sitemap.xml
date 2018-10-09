@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://pranamesh.github.io/</loc>
+  <lastmod>2018-10-09T02:22:27+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://pranamesh.github.io/portfolio/</loc>
+  <lastmod>2018-10-09T02:22:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://pranamesh.github.io/publications/</loc>
+  <lastmod>2018-10-09T02:22:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://pranamesh.github.io/bio/</loc>
+  <lastmod>2018-10-09T02:22:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://pranamesh.github.io/sitemap/</loc>
+  <lastmod>2018-10-09T02:22:27+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://pranamesh.github.io/portfolio/itsc2018-cple/</loc>
+  <lastmod>2018-10-09T02:22:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pranamesh.github.io/portfolio/odd-even/</loc>
+  <lastmod>2018-10-09T02:22:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pranamesh.github.io/portfolio/trr-congestion/</loc>
+  <lastmod>2018-10-09T02:22:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pranamesh.github.io/files/2018-TiDE-OddEvenDelhi.pdf</loc>
+  <lastmod>2018-10-09T02:22:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pranamesh.github.io/files/2018-TRR-Waze.pdf</loc>
+  <lastmod>2018-10-09T02:22:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pranamesh.github.io/files/2018-TRR-Congestion.pdf</loc>
+  <lastmod>2018-10-09T02:22:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pranamesh.github.io/files/2017-TPT-AADT.pdf</loc>
+  <lastmod>2018-10-09T02:22:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pranamesh.github.io/files/2016-TPT-TollPlaza.pdf</loc>
+  <lastmod>2018-10-09T02:22:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pranamesh.github.io/files/2018-IEEE-ITSC-draft.pdf</loc>
+  <lastmod>2018-10-09T02:22:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pranamesh.github.io/files/2018-CVPR-AICity-workshop.pdf</loc>
+  <lastmod>2018-10-09T02:22:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pranamesh.github.io/files/2018-TRB-Congestion-Shallow.pdf</loc>
+  <lastmod>2018-10-09T02:22:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pranamesh.github.io/files/2017-NIPS-TSW.pdf</loc>
+  <lastmod>2018-10-09T02:22:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pranamesh.github.io/files/2017-TRB-Outlier-Mining.pdf</loc>
+  <lastmod>2018-10-09T02:22:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pranamesh.github.io/files/2015-CTRG-Fuel.pdf</loc>
+  <lastmod>2018-10-09T02:22:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pranamesh.github.io/files/2015-TRB-SPTC.pdf</loc>
+  <lastmod>2018-10-09T02:22:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pranamesh.github.io/404.html</loc>
+  <lastmod>2018-10-09T02:22:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pranamesh.github.io/teaching/</loc>
+  <lastmod>2018-10-09T02:22:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pranamesh.github.io/terms/</loc>
+  <lastmod>2018-10-09T02:22:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pranamesh.github.io/markdown_generator/</loc>
+  <lastmod>2018-10-09T02:22:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pranamesh.github.io/robots.txt</loc>
+  <lastmod>2018-10-09T02:22:27+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pranamesh.github.io/teaching/2014-spring-teaching-1</loc>
+  <lastmod>2018-10-09T02:22:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://pranamesh.github.io/teaching/2015-spring-teaching-1</loc>
+  <lastmod>2018-10-09T02:22:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
