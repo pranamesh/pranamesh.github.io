@@ -17,7 +17,7 @@ I finsihed my Masters from [Indian Institute of Technology Kanpur](http://www.ii
 News
 ======
 
-* Selected as one of the winners of the Student Paper Competition (first author) of TRB [Mid-Year conference](http://www.cvent.com/events/managing-roadways-and-transit-together-to-move-people-into-a-new-age-of-technology-joint-midyear-con/custom-21-be08d3a7992a4ca7a5dc86b8605e0204.aspx) to be held on Sep 2018, Bellevue, USA.
+* Selected as one of the [winners](http://www.intrans.iastate.edu/enroute/?action=main.item&newsID=442) of the Student Paper Competition (first author) of TRB [Mid-Year conference](http://www.cvent.com/events/managing-roadways-and-transit-together-to-move-people-into-a-new-age-of-technology-joint-midyear-con/custom-21-be08d3a7992a4ca7a5dc86b8605e0204.aspx) to be held on Sep 2018, Bellevue, USA.
 * One paper accepted (first author) in [IEEE Intelligent Transporatation Systems Conference](https://ieee-itsc2018.org) to be held on Nov 2018, Hawaii, USA.
 * One paper accepted (first author) in [Transportation in Developing Economies](https://link.springer.com/journal/40890) journal, Jun 2018.
 * A short interview on [Transportation of Tomorrow: The next generation of engineers](http://www.go-explore-trans.org/post.cfm?ID=19070) published in Go magazine, Iowa State University, Jun 2018.
