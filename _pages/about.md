@@ -15,7 +15,7 @@ I finsihed my Masters from [Indian Institute of Technology Kanpur](http://www.ii
 
 News
 ======
-* Our team, Iowa_State_Reactor, ranked 4th in the first round of [TRANSFOR19](https://github.com/TRANSFORABJ70/TRANSFOR19), the Transportation Forecasting Competetion to be held in at the Transportation Research Board (TRB) 98th Annual Meeting.
+* Our team, Iowa_State_Reactor, ranked 4th in the first round of [TRANSFOR19](https://github.com/TRANSFORABJ70/TRANSFOR19), the Transportation Forecasting Competetion to be held at the Transportation Research Board (TRB) 98th Annual Meeting.
 * Presented one [paper](https://pranamesh.github.io/files/2018-IEEE-ITSC-draft.pdf) (first author) in [IEEE Intelligent Transporatation Systems Conference](https://ieeexplore.ieee.org/document/8569426) Nov 2018, Hawaii, USA.
 * Selected as one of the [winners](https://intrans.iastate.edu/news/intrans-graduate-student-wins-best-student-paper-award/) of the Student Paper Competition (first author) of TRB [Mid-Year conference](http://www.cvent.com/events/managing-roadways-and-transit-together-to-move-people-into-a-new-age-of-technology-joint-midyear-con/custom-21-be08d3a7992a4ca7a5dc86b8605e0204.aspx) to be held on Sep 2018, Bellevue, USA.
 * Worked as co-mentor of 3 undergraduate students in [SPIRE-EIT REU](https://projects.vrac.iastate.edu/REU2018/research-teams/timeli-traffic-incident-management-enabled-by-large-data-innovations/) program, Jul 2018.
