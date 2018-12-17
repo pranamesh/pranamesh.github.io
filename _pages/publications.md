@@ -21,7 +21,7 @@ Journal papers
 
 Conference and workshop papers
 ======
-7. **P. Chakraborty**, A. Sharma, and C. Hegde. [Freeway Traffic Incident Detection from Cameras: A Semi-Supervised Learning Approach](https://pranamesh.github.io/files/2018-IEEE-ITSC-draft.pdf), *IEEE Conference on Intelligent Transportation Systems (ITSC)*, [10.1109/ITSC.2018.8569426](https://ieeexplore.ieee.org/document/8569426), December 2018. 
+7. **P. Chakraborty**, A. Sharma, and C. Hegde. [Freeway Traffic Incident Detection from Cameras: A Semi-Supervised Learning Approach](https://pranamesh.github.io/files/2018-IEEE-ITSC-draft.pdf), *2018 21st International Conference on Intelligent Transportation Systems (ITSC)*, [10.1109/ITSC.2018.8569426](https://ieeexplore.ieee.org/document/8569426), pp. 1840-1845., December 2018. 
 6. M. Naphade, M.C. Chang, A. Sharma, D.C. Anastasiu, V. Jagarlamudi, **P. Chakraborty**, T. Huang, S. Wang, M.Y. Liu, R. Chellappa, J.N. Hwang, S. Lyu. [The 2018 NVIDIA AI City Challenge](https://pranamesh.github.io/files/2018-CVPR-AICity-workshop.pdf), *IEEE Conference on Computer Vision and Pattern Recognition Workshops*, June 2018.
 5. S. Poddar, K. Ozcan, **P. Chakraborty**, V. Ahsani, A. Sharma, and S. Sarkar. [Comparison of machine learning algorithms to determine traffic congestion from camera images](https://pranamesh.github.io/files/2018-TRB-Congestion-Shallow.pdf), *Transportation Research Board 96th Annual Meeting*, January 2018.
 4. **P. Chakraborty**, C. Hegde, and A. Sharma. [Trend Filtering in Network Time Series, with Applications to Traffic Incident Detection](https://pranamesh.github.io/files/2017-NIPS-TSW.pdf), *NIPS Time Series Workshop (TSW)*, December 2017.
