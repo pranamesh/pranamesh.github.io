@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the Civil Engineering department of Iowa State University working with <a href="https://www.ccee.iastate.edu/directory/?user_page=anujs" target="_blank">Dr. Anuj Sharma</a> & <a href="http://home.engineering.iastate.edu/~chinmay/" target="_blank">Dr. Chinmay Hegde</a>. Presently, I am working as a Pre-Doctoral Research Fellow in the <a href="https://intrans.iastate.edu/" target="_blank">Institute of Transportation</a>, Iowa State University.  My research focusses on applying deep-learning based computer vision techniques and large-scale data analytics for solving transportation engineering problems. 
+I am a PhD student in the Civil Engineering department of Iowa State University working with <a href="https://www.ccee.iastate.edu/directory/?user_page=anujs" target="_blank">Dr. Anuj Sharma</a> & <a href="http://home.engineering.iastate.edu/~chinmay/" target="_blank">Dr. Chinmay Hegde</a>. Presently, I am working as a Pre-Doctoral Research Fellow in the <a href="https://intrans.iastate.edu/" target="_blank">Institute for Transportation</a>, Iowa State University.  My research focusses on applying deep-learning based computer vision techniques and large-scale data analytics for solving transportation engineering problems. 
 
 I finsihed my Masters from <a href="http://www.iitk.ac.in/" target="_blank">Indian Institute of Technology Kanpur</a> in 2014 working with <a href="http://home.iitk.ac.in/~partha/" target="_blank">Dr. Partha Chakroborty</a> and my Bachelors from <a href="http://www.iiests.ac.in/" target="_blank">BESU, Shibpur</a> (present IIEST, Shibpur) in 2012.
 
