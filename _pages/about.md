@@ -23,9 +23,9 @@ News
 * A short interview on <a href="http://www.go-explore-trans.org/post.cfm?ID=19070" target="_blank">Transportation of Tomorrow: The next generation of engineers</a> published in Go magazine, Iowa State University, Jun 2018.
 * Worked in the organizing team of NVIDIA <a href="https://www.aicitychallenge.org/" target="_blank">AI City Challenge</a> workshop in <a href="http://cvpr2018.thecvf.com/" target="_blank">CVPR</a>, Jun 2018. Paper <a href="http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w3/Naphade_The_2018_NVIDIA_CVPR_2018_paper.pdf" target="_blank">here</a>.
 * Two papers published in Transportation Research Record journal from TRB Annual Conference, Apr 2018. 
-* Presented one paper (first author) in <a href="https://www.civil.iitb.ac.in/ctrg2017/" target="_blank">CTRG/a>, Dec 2017.
+* Presented one paper (first author) in <a href="https://www.civil.iitb.ac.in/ctrg2017/" target="_blank">CTRG</a>, Dec 2017.
 * Presented one <a href="https://trid.trb.org/view/1439336" target="_blank">paper</a> (first author) in TRB Annual Conference, Jan 2017.
-* Selected as the <a href=https://news.engineering.iastate.edu/2016/06/28/ccee-students-sweep-awards-at-regional-national-intelligent-transportation-systems-contests/" target="_blank">winner</a> of the Student Essay Competition in ITS America, 2016 sponsored by <a href="https://www.swri.org/" target="_blank">Southwest Research Institute</a>.
+* Selected as the <a href="https://news.engineering.iastate.edu/2016/06/28/ccee-students-sweep-awards-at-regional-national-intelligent-transportation-systems-contests/" target="_blank">winner</a> of the Student Essay Competition in ITS America, 2016 sponsored by <a href="https://www.swri.org/" target="_blank">Southwest Research Institute</a>.
 
 
 
