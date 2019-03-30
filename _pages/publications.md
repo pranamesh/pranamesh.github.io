@@ -12,7 +12,7 @@ author_profile: true
 
 Journal papers
 ======
-5. **P. Chakraborty** and A. Sharma. [Public Opinion Analysis of Transportation Policy using Social Media Data: Case Study on the Delhi Odd-Even Policy](https://pranamesh.github.io/files/2018-TiDE-OddEvenDelhi.pdf), *Transportation in Developing Economies* (accepted).
+5. **P. Chakraborty** and A. Sharma. [Public Opinion Analysis of Transportation Policy using Social Media Data: Case Study on the Delhi Odd-Even Policy](https://pranamesh.github.io/files/2018-TiDE-OddEvenDelhi.pdf), *Transportation in Developing Economies* [doi.org/10.1007/s40890-019-0074-8](doi.org/10.1007/s40890-019-0074-8), Mar 2019.
 4. M. Amin-Naseri, **P. Chakraborty**, A. Sharma, S.B. Gilbert, and M. Hong. [Evaluating the Reliability, Coverage, and Added Value of Crowdsourced Traffic Incident Reports from Waze](https://pranamesh.github.io/files/2018-TRR-Waze.pdf). *Transportation Research Record:  Journal of the Transportation Research Board*, [https://doi.org/10.1177/0361198118790619](https://doi.org/10.1177/0361198118790619), August 2018.
 3. **P. Chakraborty**, Y.O. Adu-Gyamfi, S. Poddar, V. Ahsani, A. Sharma, and S Sarkar. [Traffic Congestion Detection from Camera Images using Deep Convolution Neural Networks](https://pranamesh.github.io/files/2018-TRR-Congestion.pdf). *Transportation Research Record:  Journal of the Transportation Research Board*, [https://doi.org/10.1177/0361198118777631](https://doi.org/10.1177/0361198118777631), June 2018.
 2. **P Chakraborty** and P Chakroborty. [Empirical analysis of short period traffic counts and their efficiency: The case of Indian traffic](https://pranamesh.github.io/files/2017-TPT-AADT.pdf). *Transportation Planning and Technology*,  vol. 40, no. 7, p812-827, June 2017.
