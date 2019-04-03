@@ -15,6 +15,7 @@ I finsihed my Masters from <a href="http://www.iitk.ac.in/" target="_blank">Indi
 
 News
 ======
+* **Apr 2019**: Invited talk on "Big Data and AI in Transportation" in <a href="https://www.ivybusiness.iastate.edu/analytics-symposium/" target="_blank">2019 Business Analytics Symposium</a> organized by Ivy College of Business, Iowa State University.
 * **Mar 2019**: One <a href="https://rdcu.be/btXgt" target="_blank">paper</a> (first author) published in <a href="https://link.springer.com/journal/40890" target="_blank">Transportation in Developing Economies</a> journal.
 * **Jan 2019**: Our team, Iowa_State_Reactor, ranked 5th in <a href="https://github.com/TRANSFORABJ70/TRANSFOR19" target="_blank">TRANSFOR19</a>, the Transportation Forecasting Competetion, held at TRB Annual Meeting.
 * **Nov 2018**: Presented one <a href="https://pranamesh.github.io/files/2018-IEEE-ITSC-draft.pdf" target="_blank">paper</a> (first author) in <a href="https://ieeexplore.ieee.org/document/8569426" target="_blank">IEEE Intelligent Transporatation Systems Conference</a>, Hawaii, USA.
