@@ -18,7 +18,7 @@ author_profile: true
 1. P. Chakroborty, R. Gill, **P. Chakraborty**. [Analysing queueing at toll plazas using a coupled, multiple-queue, queueing system model: application to toll plaza design](https://pranamesh.github.io/files/2016-TPT-TollPlaza.pdf), *Transportation Planning and Technology*,  vol. 39, no. 7, p675-692, July 2016.
 
 ## Under Review
-1. **P Chakraborty**, C. Hegde, A. Sharma. Data-driven parallelizable traffic incident detection using spatio-temporally denoised robust thresholds. *Transportation Research-Part C*
+1. **P Chakraborty**, C. Hegde, A. Sharma. Data-driven parallelizable traffic incident detection using spatio-temporally denoised robust thresholds. *Transportation Research-Part C*.
 2. **P Chakraborty**, J. Merickel, V. Shah, A. Sharma, C. Hegde, C. Desouza, A. Drincic, P. Gunaratne, M. Rizzo. Quantifying vehicle control from physiology in type 1 diabetes. *Traffic Injury Prevention*.
 
 
