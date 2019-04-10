@@ -15,8 +15,11 @@ Journal papers
 5. **P. Chakraborty** and A. Sharma. [Public Opinion Analysis of Transportation Policy using Social Media Data: Case Study on the Delhi Odd-Even Policy](https://pranamesh.github.io/files/2018-TiDE-OddEvenDelhi.pdf), *Transportation in Developing Economies* [doi.org/10.1007/s40890-019-0074-8](https://doi.org/10.1007/s40890-019-0074-8), March 2019.
 4. M. Amin-Naseri, **P. Chakraborty**, A. Sharma, S.B. Gilbert, and M. Hong. [Evaluating the Reliability, Coverage, and Added Value of Crowdsourced Traffic Incident Reports from Waze](https://pranamesh.github.io/files/2018-TRR-Waze.pdf). *Transportation Research Record:  Journal of the Transportation Research Board*, [https://doi.org/10.1177/0361198118790619](https://doi.org/10.1177/0361198118790619), August 2018.
 3. **P. Chakraborty**, Y.O. Adu-Gyamfi, S. Poddar, V. Ahsani, A. Sharma, and S Sarkar. [Traffic Congestion Detection from Camera Images using Deep Convolution Neural Networks](https://pranamesh.github.io/files/2018-TRR-Congestion.pdf). *Transportation Research Record:  Journal of the Transportation Research Board*, [https://doi.org/10.1177/0361198118777631](https://doi.org/10.1177/0361198118777631), June 2018.
-2. **P Chakraborty** and P Chakroborty. [Empirical analysis of short period traffic counts and their efficiency: The case of Indian traffic](https://pranamesh.github.io/files/2017-TPT-AADT.pdf). *Transportation Planning and Technology*,  vol. 40, no. 7, p812-827, June 2017.
+2. **P. Chakraborty** and P. Chakroborty. [Empirical analysis of short period traffic counts and their efficiency: The case of Indian traffic](https://pranamesh.github.io/files/2017-TPT-AADT.pdf). *Transportation Planning and Technology*,  vol. 40, no. 7, p812-827, June 2017.
 1. P. Chakroborty, R. Gill, **P. Chakraborty**. [Analysing queueing at toll plazas using a coupled, multiple-queue, queueing system model: application to toll plaza design](https://pranamesh.github.io/files/2016-TPT-TollPlaza.pdf), *Transportation Planning and Technology*,  vol. 39, no. 7, p675-692, July 2016.
+**Under Review**
+1. **P Chakraborty**, C. Hegde, A. Sharma. Data-driven parallelizable traffic incident detection using spatio-temporally denoised robust thresholds. *Transportation Research-Part C*
+2. **P Chakraborty**, J. Merickel, V. Shah, A. Sharma, C. Hegde, C. Desouza, A. Drincic, P. Gunaratne, M. Rizzo. Quantifying vehicle control from physiology in type 1 diabetes. *Traffic Injury Prevention*.
 
 
 Conference and workshop papers
