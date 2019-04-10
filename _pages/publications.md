@@ -22,7 +22,7 @@ Journal papers
 2. **P Chakraborty**, J. Merickel, V. Shah, A. Sharma, C. Hegde, C. Desouza, A. Drincic, P. Gunaratne, M. Rizzo. Quantifying vehicle control from physiology in type 1 diabetes. *Traffic Injury Prevention*.
 
 
-Conference and workshop papers
+Conference papers
 ======
 7. **P. Chakraborty**, A. Sharma, and C. Hegde. [Freeway Traffic Incident Detection from Cameras: A Semi-Supervised Learning Approach](https://pranamesh.github.io/files/2018-IEEE-ITSC-draft.pdf), *2018 21st International Conference on Intelligent Transportation Systems (ITSC)*, [10.1109/ITSC.2018.8569426](https://ieeexplore.ieee.org/document/8569426), pp. 1840-1845., December 2018. 
 6. M. Naphade, M.C. Chang, A. Sharma, D.C. Anastasiu, V. Jagarlamudi, **P. Chakraborty**, T. Huang, S. Wang, M.Y. Liu, R. Chellappa, J.N. Hwang, S. Lyu. [The 2018 NVIDIA AI City Challenge](https://pranamesh.github.io/files/2018-CVPR-AICity-workshop.pdf), *IEEE Conference on Computer Vision and Pattern Recognition Workshops*, June 2018.
