@@ -23,6 +23,7 @@ author_profile: true
 
 
 # Conference papers
+8. V. Shah, J. Merickel, **P. Chakraborty**, C. Hegde, A. Sharma, P. Gunaratne, A. Drincic, C. Desouza, and M. Rizzo (Accepted). Quantifying driver speed behavior from real-time physiology in type 1 diabetes. *5th International Symposium on Future Active Safety Technology*, September 2019.
 7. **P. Chakraborty**, A. Sharma, and C. Hegde. [Freeway Traffic Incident Detection from Cameras: A Semi-Supervised Learning Approach](https://pranamesh.github.io/files/2018-IEEE-ITSC-draft.pdf), *2018 21st International Conference on Intelligent Transportation Systems (ITSC)*, pp. 1840-1845., December 2018. [doi:10.1109/ITSC.2018.8569426](https://ieeexplore.ieee.org/document/8569426) 
 6. M. Naphade, M.C. Chang, A. Sharma, D.C. Anastasiu, V. Jagarlamudi, **P. Chakraborty**, T. Huang, S. Wang, M.Y. Liu, R. Chellappa, J.N. Hwang, S. Lyu. [The 2018 NVIDIA AI City Challenge](https://pranamesh.github.io/files/2018-CVPR-AICity-workshop.pdf), *IEEE Conference on Computer Vision and Pattern Recognition Workshops*, June 2018.
 5. S. Poddar, K. Ozcan, **P. Chakraborty**, V. Ahsani, A. Sharma, and S. Sarkar. [Comparison of machine learning algorithms to determine traffic congestion from camera images](https://pranamesh.github.io/files/2018-TRB-Congestion-Shallow.pdf), *Transportation Research Board 96th Annual Meeting*, January 2018.
