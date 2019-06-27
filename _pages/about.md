@@ -15,7 +15,7 @@ I finsihed my Masters from <a href="http://www.iitk.ac.in/" target="_blank">Indi
 
 News
 ======
-* **May 2019**: Invited talk on "Applications of Big Data in Transportation" to be presented in a special session on Transport Data Analytics in <a href="http://www.wctrs-conference.com/" target="_blank">WCTR 2019</a> to be held at IIT Bombay, India on 29th May.
+* **May 2019**: Invited talk on "Applications of Big Data in Transportation" in Transport Data Analytics special session, <a href="http://www.wctrs-conference.com/" target="_blank">WCTR 2019</a>.
 * **May 2019**: Our <a href="https://pranamesh.github.io/files/2019-TRC-Denoising-AID.pdf" target="_blank">paper</a> (first author) is accepted in <a href="https://www.journals.elsevier.com/transportation-research-part-c-emerging-technologies" target="_blank">Transportation Research Part-C</a> journal.
 * **Apr 2019**: Invited talk on "Big Data and AI in Transportation" in <a href="https://www.ivybusiness.iastate.edu/analytics-symposium/" target="_blank">2019 Business Analytics Symposium</a> organized by Ivy College of Business, Iowa State University.
 * **Mar 2019**: One <a href="https://rdcu.be/btXgt" target="_blank">paper</a> (first author) published in <a href="https://link.springer.com/journal/40890" target="_blank">Transportation in Developing Economies</a> journal.
