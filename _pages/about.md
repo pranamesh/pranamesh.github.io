@@ -7,14 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the Civil Engineering department of Iowa State University working with <a href="https://www.ccee.iastate.edu/directory/?user_page=anujs" target="_blank">Dr. Anuj Sharma</a> & <a href="http://home.engineering.iastate.edu/~chinmay/" target="_blank">Dr. Chinmay Hegde</a>. Presently, I am working as a Pre-Doctoral Research Fellow in the <a href="https://intrans.iastate.edu/" target="_blank">Institute for Transportation</a>, Iowa State University.  My research focusses on applying deep-learning based computer vision techniques and large-scale data analytics for solving transportation engineering problems. 
+I am a Post-Doctoral Research Fellow in the <a href="https://intrans.iastate.edu/" target="_blank">Institute for Transportation</a>, Iowa State University. I will be joining as an Assistant Professor in the Civil Engineering department of <a href="https://www.iitk.ac.in/ce/" target="_blank">Indian Institute for Technology Kanpur</a> from Spring 2020. My research focusses on applying deep-learning based computer vision techniques and large-scale data analytics for solving transportation engineering problems. 
 
-I finsihed my Masters from <a href="http://www.iitk.ac.in/" target="_blank">Indian Institute of Technology Kanpur</a> in 2014 working with <a href="http://home.iitk.ac.in/~partha/" target="_blank">Dr. Partha Chakroborty</a> and my Bachelors from <a href="http://www.iiests.ac.in/" target="_blank">BESU, Shibpur</a> (present IIEST, Shibpur) in 2012.
+I finsihed my PhD from <a href="https://www.iastate.edu/" target="_blank">Iowa State University</a> in 2019 working with <a href="https://www.ccee.iastate.edu/directory/?user_page=anujs" target="_blank">Dr. Anuj Sharma</a> & <a href="http://home.engineering.iastate.edu/~chinmay/" target="_blank">Dr. Chinmay Hegde</a>. My Masters degree was from <a href="http://www.iitk.ac.in/" target="_blank">Indian Institute of Technology Kanpur</a> in 2014 working with <a href="http://home.iitk.ac.in/~partha/" target="_blank">Dr. Partha Chakroborty</a> and my Bachelors degree from <a href="http://www.iiests.ac.in/" target="_blank">BESU, Shibpur</a> (present IIEST, Shibpur) in 2012.
 
 **Contact**: pranames@iastate.edu; pranameshbesu@gmail.com
 
 News
 ======
+* **September 2019**: One paper (first author) accepted in <a href="https://www.tandfonline.com/toc/gcpi20/current" target="_blank">Traffic Injury Prevention</a> journal.
+* **August 2019**: Successfully defended my PhD dissertation and awarded Research Excellence Award by the <a href="https://www.grad-college.iastate.edu/" target="_blank">Graduate College of Iowa State University</a>. 
+* **Jun 2018**: Worked in the organizing team of NVIDIA <a href="https://www.aicitychallenge.org/" target="_blank">AI City Challenge</a> workshop in <a href="http://cvpr2019.thecvf.com/" target="_blank">CVPR</a>. Paper <a href="http://openaccess.thecvf.com/content_CVPRW_2019/papers/AI%20City/Naphade_The_2019_AI_City_Challenge_CVPRW_2019_paper.pdf" target="_blank">here</a>.
 * **May 2019**: Invited talk on "Applications of Big Data in Transportation" in Transport Data Analytics special session, <a href="http://www.wctrs-conference.com/" target="_blank">WCTR 2019</a>.
 * **May 2019**: Our <a href="https://pranamesh.github.io/files/2019-TRC-Denoising-AID.pdf" target="_blank">paper</a> (first author) is accepted in <a href="https://www.journals.elsevier.com/transportation-research-part-c-emerging-technologies" target="_blank">Transportation Research Part-C</a> journal.
 * **Apr 2019**: Invited talk on "Big Data and AI in Transportation" in <a href="https://www.ivybusiness.iastate.edu/analytics-symposium/" target="_blank">2019 Business Analytics Symposium</a> organized by Ivy College of Business, Iowa State University.
