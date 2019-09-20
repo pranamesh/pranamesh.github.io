@@ -28,7 +28,7 @@ Education
 
 Work experience
 ======
-* Fall 2015-Present: Graduate Research Assistant
+* Fall 2015-Present: Post-Doctoral Research Associate, Pre-Doctoral Fellow, Graduate Research Assistant
   * <a href="http://www.intrans.iastate.edu" target="_blank">Insitute for Transportation</a>, Iowa State University
   * Projects Involved: 
     * <a href="https://nsf.gov/awardsearch/showAward?AWD_ID=1632116" target="_blank">A Smart Service System for Traffic Incident Management Enabled by Large Data Innovation (TIMELI)</a> (Sponsor: National Science Foundation project)
