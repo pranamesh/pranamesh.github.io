@@ -17,6 +17,7 @@ I finsihed my PhD from <a href="https://www.iastate.edu/" target="_blank">Iowa S
 
 News
 ======
+* **October 2019**: Our team ranked first in the ATD challenge on traffic incident detection organized by MIT and funded by NSF.
 * **September 2019**: One paper (first author) accepted in <a href="https://www.tandfonline.com/toc/gcpi20/current" target="_blank">Traffic Injury Prevention</a> journal.
 * **August 2019**: Successfully defended my PhD dissertation and awarded Research Excellence Award by the <a href="https://www.grad-college.iastate.edu/" target="_blank">Graduate College of Iowa State University</a>. 
 * **Jun 2018**: Worked in the organizing team of NVIDIA <a href="https://www.aicitychallenge.org/" target="_blank">AI City Challenge</a> workshop in <a href="http://cvpr2019.thecvf.com/" target="_blank">CVPR</a>. Paper <a href="http://openaccess.thecvf.com/content_CVPRW_2019/papers/AI%20City/Naphade_The_2019_AI_City_Challenge_CVPRW_2019_paper.pdf" target="_blank">here</a>.
