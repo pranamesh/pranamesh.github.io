@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Post-Doctoral Research Fellow in the <a href="https://intrans.iastate.edu/" target="_blank">Institute for Transportation</a>, Iowa State University. I will be joining as an Assistant Professor in the Civil Engineering department of <a href="https://www.iitk.ac.in/ce/" target="_blank">Indian Institute of Technology Kanpur</a> from Spring 2020. 
+I am an Assistant Professor in the Civil Engineering department of <a href="https://www.iitk.ac.in/new/pranamesh-chakraborty" target="_blank">Indian Institute of Technology Kanpur</a>. 
 
 
 My research focusses on applying deep-learning based computer vision techniques and large-scale data analytics for solving transportation engineering problems. 
@@ -16,10 +16,15 @@ My research focusses on applying deep-learning based computer vision techniques 
 I finsihed my PhD from <a href="https://www.iastate.edu/" target="_blank">Iowa State University</a> in 2019 working with <a href="https://www.ccee.iastate.edu/directory/?user_page=anujs" target="_blank">Dr. Anuj Sharma</a> & <a href="http://home.engineering.iastate.edu/~chinmay/" target="_blank">Dr. Chinmay Hegde</a>. My Masters degree was from <a href="http://www.iitk.ac.in/" target="_blank">Indian Institute of Technology Kanpur</a> working with <a href="http://home.iitk.ac.in/~partha/" target="_blank">Dr. Partha Chakroborty</a> and my Bachelors degree from <a href="http://www.iiests.ac.in/" target="_blank">BESU, Shibpur</a> (present IIEST, Shibpur).
 
 
-**Contact**: pranames@iastate.edu; pranameshbesu@gmail.com
+Students having good academic background and interested in doing research in Intelligent Transportation Systems for PhD, Masters, B. Tech projects or summer internships can contact me directly by email.  
+
+
+**Contact**: pranames@iitk.ac.in; pranameshbesu@gmail.com
+**Office Address**: Room No. 4, Block-C, Old-SAC Building, IIT Kanpur
 
 News
 ======
+* **December 2019**: I have joined as an Assistant Professor in the Civil Engineering Department of IIT Kanpur.
 * **October 2019**: Our team ranked first in the ATD challenge on traffic incident detection organized by MIT and funded by NSF.
 * **September 2019**: One <a href="https://pranamesh.github.io/files/2019-TIP-Diabetes.pdf" target="_blank">paper</a> (first author) accepted in <a href="https://www.tandfonline.com/toc/gcpi20/current" target="_blank">Traffic Injury Prevention</a> journal.
 * **August 2019**: Successfully defended my PhD dissertation and awarded Research Excellence Award by the <a href="https://www.grad-college.iastate.edu/" target="_blank">Graduate College of Iowa State University</a>. 
