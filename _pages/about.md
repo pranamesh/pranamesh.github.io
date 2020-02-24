@@ -15,7 +15,7 @@ My research focusses on applying deep-learning based computer vision techniques 
 
 I finsihed my PhD from <a href="https://www.iastate.edu/" target="_blank">Iowa State University</a> in 2019 working with <a href="https://www.ccee.iastate.edu/directory/?user_page=anujs" target="_blank">Dr. Anuj Sharma</a> & <a href="http://home.engineering.iastate.edu/~chinmay/" target="_blank">Dr. Chinmay Hegde</a>. My Masters degree was from <a href="http://www.iitk.ac.in/" target="_blank">Indian Institute of Technology Kanpur</a> working with <a href="http://home.iitk.ac.in/~partha/" target="_blank">Dr. Partha Chakroborty</a> and my Bachelors degree from <a href="http://www.iiests.ac.in/" target="_blank">BESU, Shibpur</a> (present IIEST, Shibpur).
 
-%Undergraduate students of IIT Kanpur interested in doing B. Tech projects can directly contact me by email.
+[//]: # Undergraduate students of IIT Kanpur interested in doing B. Tech projects can directly contact me by email.
 
 **Contact**: pranames@iitk.ac.in; pranameshbesu@gmail.com
 
