@@ -23,6 +23,7 @@ I finsihed my PhD from <a href="https://www.iastate.edu/" target="_blank">Iowa S
 
 News
 ======
+* **March 2019**: Working in the organizing team of NVIDIA <a href="https://www.aicitychallenge.org/" target="_blank">AI City Challenge</a> workshop in <a href="http://cvpr2020.thecvf.com/" target="_blank">CVPR 2020</a>.
 * **December 2019**: I have joined as an Assistant Professor in the Civil Engineering Department of IIT Kanpur.
 * **October 2019**: Our team ranked first in the ATD challenge on traffic incident detection organized by MIT and funded by NSF.
 * **September 2019**: One <a href="https://pranamesh.github.io/files/2019-TIP-Diabetes.pdf" target="_blank">paper</a> (first author) accepted in <a href="https://www.tandfonline.com/toc/gcpi20/current" target="_blank">Traffic Injury Prevention</a> journal.
