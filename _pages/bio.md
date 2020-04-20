@@ -28,13 +28,10 @@ Education
 
 Work experience
 ======
-* Fall 2015-Present: Post-Doctoral Research Associate, Pre-Doctoral Fellow, Graduate Research Assistant
+* Dec 2020 - Present: Assistant Professor
+  * Department of Civil Engineering, a href="http://www.iitk.ac.in/ce/" target="_blank">Indian Institute of Technology Kanpur</a>  
+* Fall 2015-Nov 2019: Post-Doctoral Research Associate, Pre-Doctoral Fellow, Graduate Research Assistant
   * <a href="http://www.intrans.iastate.edu" target="_blank">Insitute for Transportation</a>, Iowa State University
-  * Projects Involved: 
-    * <a href="https://nsf.gov/awardsearch/showAward?AWD_ID=1632116" target="_blank">A Smart Service System for Traffic Incident Management Enabled by Large Data Innovation (TIMELI)</a> (Sponsor: National Science Foundation project)
-    * Modeling multidimensional risk in real-world driver with diabetes (Sponsor: <a href="https://www.toyota.com/csrc/" target="_blank">Toyota Collaborative Safety Research Center</a>
-    * <a href="http://publications.iowa.gov/28701/2/portable_multi-sensors_for_intersection_safety_assess_Tech%20Brief.pdf" target="_blank">Portable Multi-Sensor System for Intersection Safety Performance Assessment</a> (Sponsor: Iowa Department of Transportation )
-    * Annual Mobility Reports (2012-2015, 2016) (Sponsor: Iowa Department of Transportation)
 * Spring 2015: Assistant Professor
   * Department of Civil Engineering, <a href="https://technoindiauniversity.ac.in/" target="_blank">Techno India University</a>
 * Fall 2014: Assistant Professor
