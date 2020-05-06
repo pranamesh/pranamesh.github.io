@@ -22,7 +22,7 @@ author_profile: true
 ## Under Review
 1. T. Huang, **P. Chakraborty**, and A. Sharma. Deep convolutional generative adversarial networks for traﬃc data imputation encoding time series as images. *Transportation Research Part-C*. 
 2. S. Poddar, **P. Chakraborty**, A. Sharma, S. Knickerbocker, and N. Hawkins. Massively parallelizable approach for evaluating signalized arterial performance using probe-based data. *Journal of Intelligent Transportation Systems*.  
-3. T. Poddar, **P. Chakraborty**, and A. Sharma. Large-Scale Data-driven Traffic Sensor Health Monitoring. *Journal of Intelligent Transportation Systems*. 
+3. T. Huang, **P. Chakraborty**, and A. Sharma. Large-Scale Data-driven Traffic Sensor Health Monitoring. *Journal of Intelligent Transportation Systems*. 
 
 
 # Conference papers
