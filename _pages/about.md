@@ -19,11 +19,12 @@ I finsihed my PhD from <a href="https://www.iastate.edu/" target="_blank">Iowa S
 
 **Contact**: pranames@iitk.ac.in; pranameshbesu@gmail.com
 
-**Office Address**: Room No. 4, Block-C, Old-SAC Building, IIT Kanpur
+**Office Address**: Room No. 104, Block-C, Old-SAC Building, IIT Kanpur
 
 News
 ======
-* **March 2019**: Working in the organizing team of NVIDIA <a href="https://www.aicitychallenge.org/" target="_blank">AI City Challenge</a> workshop in <a href="http://cvpr2020.thecvf.com/" target="_blank">CVPR 2020</a>.
+* **May 2019**: Serving as one of the guest editors in the Special Issue "Deep Learning in Transportation" in the Journal of Big Data Analytics in Transportation. Call for papers <a href="https://resource-cms.springernature.com/springer-cms/rest/v1/content/17924670/data/v2" target="_blank">here</a>. 
+* **March 2019**: Working in the organizing team of NVIDIA <a href="https://www.aicitychallenge.org/" target="_blank">AI City Challenge</a> workshop in <a href="http://cvpr2020.thecvf.com/" target="_blank">CVPR 2020</a>. Preprint  <a href="https://arxiv.org/abs/2004.14619" target="_blank">here</a>. 
 * **December 2019**: I have joined as an Assistant Professor in the Civil Engineering Department of IIT Kanpur.
 * **October 2019**: Our team ranked first in the ATD challenge on traffic incident detection organized by MIT and funded by NSF.
 * **September 2019**: One <a href="https://pranamesh.github.io/files/2019-TIP-Diabetes.pdf" target="_blank">paper</a> (first author) accepted in <a href="https://www.tandfonline.com/toc/gcpi20/current" target="_blank">Traffic Injury Prevention</a> journal.
