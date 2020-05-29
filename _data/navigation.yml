@@ -10,10 +10,14 @@ main:
   - title: "Teaching"
     url: /teaching/    
 
+  - title: "Projects"
+    url: /portfolio/ 
+    
   - title: "Bio"
     url: /bio/ 
     
- 
+
+    
     
 #  - title: "Talks"
 #    url: /talks/       
