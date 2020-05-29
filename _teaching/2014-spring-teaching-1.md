@@ -8,5 +8,6 @@ date: 2020-01-01
 location: "India"
 ---
 
+Semester: 2019 - 2020 II
 
 Lecture Notes of lab experiments post COVID 19 lockdown are available here.
