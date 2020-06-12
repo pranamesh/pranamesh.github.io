@@ -28,7 +28,7 @@ Education
 
 Work experience
 ======
-* Dec 2020 - Present: Assistant Professor
+* Dec 2019 - Present: Assistant Professor
   * Department of Civil Engineering, <a href="http://www.iitk.ac.in/ce/" target="_blank">Indian Institute of Technology Kanpur</a>  
 * Fall 2015-Nov 2019: Post-Doctoral Research Associate, Pre-Doctoral Fellow, Graduate Research Assistant
   * <a href="http://www.intrans.iastate.edu" target="_blank">Insitute for Transportation</a>, Iowa State University
