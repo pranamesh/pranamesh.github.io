@@ -16,6 +16,7 @@ Shivom is a second year masters student in civil engineering who joined the grou
 
 ### 2. Nasim Akhtar 
 (Co-advised by Prof. Partha Chakroborty)
+
 Nasim is a second year masters student in civil engineering who joined the group in May 2020. He is working on object detection under heavy occlusion.
 
 # B. Tech students
