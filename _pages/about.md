@@ -25,9 +25,10 @@ I finsihed my PhD from <a href="https://www.iastate.edu/" target="_blank">Iowa S
 
 News
 ======
-* **May 2019**: Invited talk on "Emerging Travel Technologies (ITS and IoT) in the Transportation Research Group of India  (TRG) webinar series. Details <a href="https://www.trgindia.org/Schedule%20for%20the%20TRG%20Webinar%20Series%2025-29%20May%202020.pdf" target="_blank">here</a>.
-* **May 2019**: Serving as one of the guest editors in the Special Issue "Deep Learning in Transportation" in the Journal of Big Data Analytics in Transportation. Call for papers <a href="https://resource-cms.springernature.com/springer-cms/rest/v1/content/17924670/data/v2" target="_blank">here</a>. 
-* **March 2019**: Working in the organizing team of NVIDIA <a href="https://www.aicitychallenge.org/" target="_blank">AI City Challenge</a> workshop in <a href="http://cvpr2020.thecvf.com/" target="_blank">CVPR 2020</a>. Preprint  <a href="https://arxiv.org/abs/2004.14619" target="_blank">here</a>. 
+* **July 2020**: Invited talk on "Deep Learning Techniques in Traffic Data Imputation" in the webinar series 'Modern Trends in Transportation System (MTTS-2020)' organized by NIT Silchar.
+* **May 2020**: Invited talk on "Emerging Travel Technologies (ITS and IoT") in the Transportation Research Group of India  (TRG) webinar series. Details <a href="https://www.trgindia.org/Schedule%20for%20the%20TRG%20Webinar%20Series%2025-29%20May%202020.pdf" target="_blank">here</a>.
+* **May 2020**: Serving as one of the guest editors in the Special Issue "Deep Learning in Transportation" in the Journal of Big Data Analytics in Transportation. Call for papers <a href="https://resource-cms.springernature.com/springer-cms/rest/v1/content/17924670/data/v2" target="_blank">here</a>. 
+* **March 2020**: Working in the organizing team of NVIDIA <a href="https://www.aicitychallenge.org/" target="_blank">AI City Challenge</a> workshop in <a href="http://cvpr2020.thecvf.com/" target="_blank">CVPR 2020</a>. Preprint  <a href="https://arxiv.org/abs/2004.14619" target="_blank">here</a>. 
 * **December 2019**: I have joined as an Assistant Professor in the Civil Engineering Department of IIT Kanpur.
 * **October 2019**: Our team ranked first in the ATD challenge on traffic incident detection organized by MIT and funded by NSF.
 * **September 2019**: One <a href="https://pranamesh.github.io/files/2019-TIP-Diabetes.pdf" target="_blank">paper</a> (first author) accepted in <a href="https://www.tandfonline.com/toc/gcpi20/current" target="_blank">Traffic Injury Prevention</a> journal.
