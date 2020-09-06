@@ -25,6 +25,7 @@ I finsihed my PhD from <a href="https://www.iastate.edu/" target="_blank">Iowa S
 
 News
 ======
+* **August 2020**: Paper on <a href="https://pranamesh.github.io/files/2020-DL-review-paper-BDAT.pdf" target="_blank">"Applications of Deep Learning in Intelligent Transportation Systems"</a> published in Journal of Big Data Analytics in Transportation.
 * **July 2020**: Invited talk on "Deep Learning Techniques in Traffic Data Imputation" in the webinar series 'Modern Trends in Transportation System (MTTS-2020)' organized by NIT Silchar.
 * **May 2020**: Invited talk on "Emerging Travel Technologies (ITS and IoT") in the Transportation Research Group of India  (TRG) webinar series. Details <a href="https://www.trgindia.org/Schedule%20for%20the%20TRG%20Webinar%20Series%2025-29%20May%202020.pdf" target="_blank">here</a>.
 * **May 2020**: Serving as one of the guest editors in the Special Issue "Deep Learning in Transportation" in the Journal of Big Data Analytics in Transportation. Call for papers <a href="https://resource-cms.springernature.com/springer-cms/rest/v1/content/17924670/data/v2" target="_blank">here</a>. 
