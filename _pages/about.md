@@ -25,6 +25,8 @@ I finsihed my PhD from <a href="https://www.iastate.edu/" target="_blank">Iowa S
 
 News
 ======
+* **November 2020**: PhD students Udita Jana and Pavan Kumar Sharma and M. Tech students Sahil Jaiswal and Chirag Bharat Jaiswal joins our research group.
+* **November 2020**: Invited talk in the Short-Term Course "Machine learning & it's applications to civil engineering (MLACE-2020)" organized by NIT Srinagar.
 * **October 2020**: SERB startup research grant approved on camera-based smart traffic signal developement.
 * **August 2020**: Paper on <a href="https://pranamesh.github.io/files/2020-DL-review-paper-BDAT.pdf" target="_blank">"Applications of Deep Learning in Intelligent Transportation Systems"</a> published in Journal of Big Data Analytics in Transportation.
 * **July 2020**: Invited talk on "Deep Learning Techniques in Traffic Data Imputation" in the webinar series 'Modern Trends in Transportation System (MTTS-2020)' organized by NIT Silchar.
