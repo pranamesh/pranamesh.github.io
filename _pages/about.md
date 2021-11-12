@@ -25,11 +25,11 @@ I finsihed my PhD from <a href="https://www.iastate.edu/" target="_blank">Iowa S
 
 News
 ======
-* **November 2021**: I will be taking an executive course on *Deep Learning and It’s Application in Transportation Engineering* in the upcoming <a href="https://ctrg2021.trgindia.org/page-details.php?pgurl=727a0736de9be7b163359dd1cdb812200b59f5e3conference" target="_blank">"CTRG 2021"</a> conference. 
-* **October 2021**: <a href="https://pranamesh.github.io/publications/" target="_blank">"Two papers"</a> from our research group accepted in the upcoming TRB 2022 conference.
+* **November 2021**: I will be taking an executive course on *Deep Learning and It’s Application in Transportation Engineering* in the upcoming <a href="https://ctrg2021.trgindia.org/page-details.php?pgurl=727a0736de9be7b163359dd1cdb812200b59f5e3conference" target="_blank">CTRG 2021</a> conference. 
+* **October 2021**: <a href="https://pranamesh.github.io/publications/" target="_blank">Two papers</a> from our research group accepted in the upcoming TRB 2022 conference.
 * **August 2021**: Shivom Bhargava, M. Tech student from our group successfully defended his M. Tech thesis.
 * **May 2021**: PhD students from our research group Udita Jana receives the prestigious PMRF fellowship.
-* **December 2020**: One paper accepted in COMSNETS 2021: Intelligent Transportation Systems Workshop.
+* **December 2020**: <a href="https://pranamesh.github.io/publications/" target="_blank">One paper</a> accepted in COMSNETS 2021: Intelligent Transportation Systems Workshop.
 * **November 2020**: PhD students Udita Jana and Pavan Kumar Sharma and M. Tech students Sahil Jaiswal and Chirag Bharat Jaiswal joins our research group.
 * **November 2020**: Invited talk in the Short-Term Course "Machine learning & it's applications to civil engineering (MLACE-2020)" organized by NIT Srinagar.
 * **October 2020**: SERB startup research grant approved on camera-based smart traffic signal developement.
