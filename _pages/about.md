@@ -26,7 +26,7 @@ I finsihed my PhD from <a href="https://www.iastate.edu/" target="_blank">Iowa S
 News
 ======
 * **March 2023**: Tanu Singh, PhD student in our research group, has been selected for the prestigious PMRF fellowship.
-* **February 2023**: <a href="https://pranamesh.github.io/publications/2023_veh_reidentification_mtits.pdf" target="_blank">One paper</a> accepted in the 8th International Conference on Models and Technologies for Intelligent Transportation Systems (MT-ITS 2023) to be held in Nice, France.
+* **February 2023**: <a href="https://pranamesh.github.io/files/2023_veh_reidentification_mtits.pdf" target="_blank">One paper</a> accepted in the 8th International Conference on Models and Technologies for Intelligent Transportation Systems (MT-ITS 2023) to be held in Nice, France.
 * **November 2022**: Our research group is organizing a track on bike helmet violation detection in <a href="https://www.aicitychallenge.org/" target="_blank">AI City challenge</a> to be held in CVPR, 2023 in Vancouver, Canada.
 * **October 2022**: PhD students Tanu Singh and Pankaj Kumar and M. Tech students Aditya Mishra, D Bhargavi, Miska Singh, and Shiva Singh joins our research group.
 * **October 2022**: Research Associate Sanjita Prajapati joins our research group.
@@ -35,7 +35,7 @@ News
 * **March 2021**: Working in the organizing team of NVIDIA <a href="https://www.aicitychallenge.org/" target="_blank">AI City Challenge</a> workshop in <a href="https://cvpr2021.thecvf.com/" target="_blank">CVPR 2021</a>. Preprint  <a href="https://arxiv.org/abs/2104.12233" target="_blank">here</a>. 
 * **October 2021**: <a href="https://pranamesh.github.io/publications/" target="_blank">Two papers</a> from our research group accepted in the upcoming TRB 2022 conference.
 * **May 2021**: Udita Jana, PhD student in our research group, has been selected for the prestigious PMRF fellowship.
-* **December 2020**: <a href="https://pranamesh.github.io/publications/" target="_blank">One paper</a> accepted in COMSNETS 2021: Intelligent Transportation Systems Workshop.
+* **December 2020**: <a href="https://pranamesh.github.io/files/2021_comnets_accident.pdf" target="_blank">One paper</a> accepted in COMSNETS 2021: Intelligent Transportation Systems Workshop.
 * **November 2020**: PhD students Udita Jana and Pavan Kumar Sharma and M. Tech students Sahil Jaiswal and Chirag Bharat Jaiswal joins our research group.
 * **November 2020**: Invited talk in the Short-Term Course "Machine learning & it's applications to civil engineering (MLACE-2020)" organized by NIT Srinagar.
 * **October 2020**: SERB startup research grant approved on camera-based smart traffic signal developement.
