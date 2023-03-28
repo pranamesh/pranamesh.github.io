@@ -15,7 +15,7 @@ My research focusses on applying deep-learning based computer vision techniques 
 
 I finsihed my PhD from <a href="https://www.iastate.edu/" target="_blank">Iowa State University</a> in 2019 working with <a href="https://www.ccee.iastate.edu/directory/?user_page=anujs" target="_blank">Dr. Anuj Sharma</a> & <a href="http://home.engineering.iastate.edu/~chinmay/" target="_blank">Dr. Chinmay Hegde</a>. My Masters degree was from <a href="http://www.iitk.ac.in/" target="_blank">Indian Institute of Technology Kanpur</a> working with <a href="http://home.iitk.ac.in/~partha/" target="_blank">Dr. Partha Chakroborty</a> and my Bachelors degree from <a href="http://www.iiests.ac.in/" target="_blank">BESU, Shibpur</a> (present IIEST, Shibpur).
 
-**PhD positions available** in a funded joint research project between IITK and La Trobe University, Australia on ITS related problem. Scholarship details available <a href="https://ra-latrobe.iitk.ac.in/studentGuidelines/" target="_blank">here</a>. Interested students can apply from the <a href="https://www.iitk.ac.in/ce/pg-admissions" target="_blank">IITK CE PG admission</a>.   Students interested in other fields of real-world exciting ITS related problems can also apply. Candidates with only Bachelor’s degree in Civil Engineering having an excellent academic record can also apply.
+**PhD positions available:**  I am looking for motivated students with strong academic background intererested to work on exciting real-world intelligent transportation systems problems related to machine learning, computer vision, and large-scale data anlaytics. Interested students can apply from the <a href="https://www.iitk.ac.in/ce/pg-admissions" target="_blank">IITK CE PG admission</a>. Candidates with only Bachelor’s degree in Civil Engineering having an excellent academic record can also apply.
 
 [//]: # Undergraduate students of IIT Kanpur interested in doing B. Tech projects can directly contact me by email.
 
@@ -25,10 +25,13 @@ I finsihed my PhD from <a href="https://www.iastate.edu/" target="_blank">Iowa S
 
 News
 ======
-* **November 2021**: I will be taking an executive course on *Deep Learning and It’s Application in Transportation Engineering* in the upcoming <a href="https://ctrg2021.trgindia.org/page-details.php?pgurl=727a0736de9be7b163359dd1cdb812200b59f5e3conference" target="_blank">CTRG 2021</a> conference. 
+* **March 2023**: Tanu Singh, PhD student in our research group, has been selected for the prestigious PMRF fellowship.
+* **February 2023**: <a href="https://pranamesh.github.io/publications/" target="_blank">One paper</a> accepted in the 8th International Conference on Models and Technologies for Intelligent Transportation Systems (MT-ITS 2023) to be held in Nice, France.
+* **November 2022**: Our research group is organizing a track on bike helmet violation detection in <a href="https://www.aicitychallenge.org/" target="_blank">AI City challenge</a> to be held in CVPR, 2023 in Vancouver, Canada.
+* **August 2022**: Paper on <a href="https://pranamesh.github.io/files/2022-diabetes_aap.pdf" target="_blank">"Influence of Type I diabetes on driver stopping behavior"</a> published in Accident Analysis & Prevention Journal.
 * **October 2021**: <a href="https://pranamesh.github.io/publications/" target="_blank">Two papers</a> from our research group accepted in the upcoming TRB 2022 conference.
-* **August 2021**: Shivom Bhargava, M. Tech student from our group successfully defended his M. Tech thesis.
-* **May 2021**: PhD students from our research group Udita Jana receives the prestigious PMRF fellowship.
+[//]: # * **August 2021**: Shivom Bhargava, M. Tech student from our group successfully defended his M. Tech thesis.
+* **May 2021**: Udita Jana, PhD student in our research group, has been selected for the prestigious PMRF fellowship.
 * **December 2020**: <a href="https://pranamesh.github.io/publications/" target="_blank">One paper</a> accepted in COMSNETS 2021: Intelligent Transportation Systems Workshop.
 * **November 2020**: PhD students Udita Jana and Pavan Kumar Sharma and M. Tech students Sahil Jaiswal and Chirag Bharat Jaiswal joins our research group.
 * **November 2020**: Invited talk in the Short-Term Course "Machine learning & it's applications to civil engineering (MLACE-2020)" organized by NIT Srinagar.
