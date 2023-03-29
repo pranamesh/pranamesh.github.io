@@ -58,17 +58,12 @@ Shiva Singh
 2. Nasim Akhtar (co-supervised by Prof. Partha Chakroborty). He graduated in 2021 and is currently working in VR Techniche Pvt. Ltd. 
 1. Shivom Bhargava. He graduated in 2021 and is currently working in Tiger Analytics.
 ### B. Tech students
-Arush (2022-23 Sem I)
-
-Vineet Yadav (2022-23 Sem I)
-
-Yash Vardha Raizada (2021-22 Sem II, 2020-21 Sem I) 
-
-Lakshay Middha (2021-22 Sem I)
-
-Smriti Chattani (Surge Program, 2020)
-
-Disha Rajora (2019-20 Sem II)
+6. Arush (2022-23 Sem I)
+5. Vineet Yadav (2022-23 Sem I)
+4. Yash Vardha Raizada (2021-22 Sem II, 2020-21 Sem I) 
+3. Lakshay Middha (2021-22 Sem I)
+2. Smriti Chattani (Surge Program, 2020)
+1. Disha Rajora (2019-20 Sem II)
 
 
 
