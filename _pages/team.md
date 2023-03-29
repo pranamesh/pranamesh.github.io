@@ -13,49 +13,52 @@ author_profile: true
 **PhD positions available**: I am looking for motivated students with strong academic background intererested to work on exciting real-world intelligent transportation systems problems related to machine learning, computer vision, and large-scale data anlaytics. Interested candidates can contact me via email along with their CV and research interests.
 
 # PhD students
-**Tanu Singh** (PMRF Fellow): 
-Tanu Joined the research group in December 2022. Her work is on traffic incident detection.
+**Tanu Singh(PMRF Fellow):**
+Tanu Joined the research group in December 2022 and her research work in on traffic incident detection. Her co-supervisor is Prof. Long Trong from La-Trobe University, Australia.
 
 **Pankaj Kumar**: 
 Pankaj joined the research group in December 2022. His work is on naturalistic driving study for Indian traffic.
 
-**Udita Jana** (PMRF Fellow): 
+**Udita Jana(PMRF Fellow):** 
 Udita joined the research group in December 2020. Her work is on camera vased intersection monitoring and management.
 
 **Pavan Kumar Sharma**:
 Pavan Joined the research group in December 2020. His work is on driver gaze behavior.
 
-
-
+**Ankita Sharma**: (co-supervisor)
+Ankita is working on gap-acceptance models. His supervisor is Prof. Partha Chakroborty.
 
 
 # M. Tech students
-### 1. Shivom Bhargava
-Shivom is a second year masters student in civil engineering who joined the group in June 2020. He is working on computer vision based low light object detection.
+**Hardik Gupta**: He joined the research group in July 2022 and is working on driver anomaly detection.
+**Shambhu Singh**: He joined the research group in July 2022 and is working on motorbike driver behavior.
+**Chirag Bharat Jaiswal**: He joined the research group in July 2021 and is working on turning behavior of drivers.
 
-### 2. Nasim Akhtar 
-(Co-advised by Prof. Partha Chakroborty)
-Nasim is a second year masters student in civil engineering who joined the group in May 2020. He is working on object detection with occlusion.
+***Upcoming M. Tech students***: 
+**Aditya Mishra**:
+**Bhargavi Dadi**
+**Miska Singh**
+**Shiva Singh**
 
-### 3. Sahil Jaiswal
-Sahil joined the group in December 2020.
+# B. Tech students
+**Priyanshu Kumar**:
+**Raj Arya**
+**Shivanshu Tyagi**
 
-### 4. Chirag Bharat Jaiswal
-Chirag joined the group in December 2020.
+
 
 # Alumni
-## M. Tech students
+### M. Tech students
 3. Sahil Jaiswal: He graduated in 2022 and is currently working in Sigmoid.
 2. Nasim Akhtar (co-supervised by Prof. Partha Chakroborty). He graduated in 2021 and is currently working in VR Techniche Pvt. Ltd. 
 1. Shivom Bhargava. He graduated in 2021 and is currently working in Tiger Analytics.
-
-# B. Tech students
-### 1. Dishaa Rajora
-*Third-year undergraduate in Civil Engineering*
-### 2. Smriti Chhattani
-*Second-year undergraduate in Civil Engineering*
-### 3. Yash Vardhan Raizada
-*Second-year undergraduate in Civil Engineering*
+### B. Tech students
+Arush (2022-23 Sem I)
+Vineet Yadav (2022-23 Sem I)
+Yash Vardha Raizada (2021-22 Sem II, 2020-21 Sem I) 
+Lakshay Middha (2021-22 Sem I)
+Smriti Chattani (Surge Program, 2020)
+Disha Rajora (2019-20 Sem II)
 
 
 
