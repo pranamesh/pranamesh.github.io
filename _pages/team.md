@@ -13,13 +13,13 @@ author_profile: true
 **PhD positions available**: I am looking for motivated students with strong academic background intererested to work on exciting real-world intelligent transportation systems problems related to machine learning, computer vision, and large-scale data anlaytics. Interested candidates can contact me via email along with their CV and research interests.
 
 # PhD students
-**Tanu Singh (PMRF Fellow):**
+**Tanu Singh (PMRF Scholar):**
 Tanu Joined the research group in December 2022 and her research work in on traffic incident detection. Her co-supervisor is Prof. Long Trong from La-Trobe University, Australia.
 
 **Pankaj Kumar**: 
 Pankaj joined the research group in December 2022. His work is on naturalistic driving study for Indian traffic.
 
-**Udita Jana (PMRF Fellow):** 
+**Udita Jana (PMRF Scholar):** 
 Udita joined the research group in December 2020. Her work is on camera vased intersection monitoring and management.
 
 **Pavan Kumar Sharma**:
