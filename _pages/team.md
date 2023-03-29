@@ -37,11 +37,15 @@ Ankita is working on gap-acceptance models. His supervisor is Prof. Partha Chakr
 **Chirag Bharat Jaiswal**: He joined the research group in July 2021 and is working on turning behavior of drivers.
 
 ***Upcoming M. Tech students (from June 2023)***:
-Arush,
-Aditya Mishra,
-Bhargavi Dadi
-Miska Singh
-Shiva Singh
+**Arush**
+
+**Aditya Mishra**
+
+**Bhargavi Dadi**
+
+**Miska Singh**
+
+**Shiva Singh**
 
 # B. Tech students
 **Priyanshu Kumar**
@@ -57,6 +61,7 @@ Shiva Singh
 3. Sahil Jaiswal: He graduated in 2022 and is currently working in Sigmoid.
 2. Nasim Akhtar (co-supervised by Prof. Partha Chakroborty). He graduated in 2021 and is currently working in VR Techniche Pvt. Ltd. 
 1. Shivom Bhargava. He graduated in 2021 and is currently working in Tiger Analytics.
+
 ### B. Tech students
 6. Arush (2022-23 Sem I)
 5. Vineet Yadav (2022-23 Sem I)
