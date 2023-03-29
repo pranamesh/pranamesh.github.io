@@ -31,7 +31,9 @@ Ankita is working on gap-acceptance models. His supervisor is Prof. Partha Chakr
 
 # M. Tech students
 **Hardik Gupta**: He joined the research group in July 2022 and is working on driver anomaly detection.
+
 **Shambhu Singh**: He joined the research group in July 2022 and is working on motorbike driver behavior.
+
 **Chirag Bharat Jaiswal**: He joined the research group in July 2021 and is working on turning behavior of drivers.
 
 ***Upcoming M. Tech students***: 
