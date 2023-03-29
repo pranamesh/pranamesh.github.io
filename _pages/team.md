@@ -13,17 +13,21 @@ author_profile: true
 **PhD positions available**: I am looking for motivated students with strong academic background intererested to work on exciting real-world intelligent transportation systems problems related to machine learning, computer vision, and large-scale data anlaytics. Interested candidates can contact me via email along with their CV and research interests.
 
 # PhD students
-### 1. Udita Jana
+**Tanu Singh** (PMRF Fellow): 
+Tanu Joined the research group in December 2022. Her work is on traffic incident detection.
+
+**Pankaj Kumar**: 
+Pankaj joined the research group in December 2022. His work is on naturalistic driving study for Indian traffic.
+
+**Udita Jana** (PMRF Fellow): 
 Udita joined the research group in December 2020. Her work is on camera vased intersection monitoring and management.
 
-### 2. Pavan Kumar Sharma
+**Pavan Kumar Sharma**:
 Pavan Joined the research group in December 2020. His work is on driver gaze behavior.
 
-### 3. Pankaj Kumar
-Pavan Joined the research group in December 2022. His work is on naturalistic driving study for Indian traffic.
 
-### 4. Tanu Singh
-Pavan Joined the research group in December 2022. Her work is on traffic incident detection.
+
+
 
 # M. Tech students
 ### 1. Shivom Bhargava
@@ -41,8 +45,8 @@ Chirag joined the group in December 2020.
 
 # Alumni
 ## M. Tech students
-
-2. Nasim Akhtar (co-supervised with Prof. Partha Chakroborty). He graduated in 2021 and is currently working in VR Techniche Pvt. Ltd. 
+3. Sahil Jaiswal: He graduated in 2022 and is currently working in Sigmoid.
+2. Nasim Akhtar (co-supervised by Prof. Partha Chakroborty). He graduated in 2021 and is currently working in VR Techniche Pvt. Ltd. 
 1. Shivom Bhargava. He graduated in 2021 and is currently working in Tiger Analytics.
 
 # B. Tech students
