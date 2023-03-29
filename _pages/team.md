@@ -37,10 +37,10 @@ Ankita is working on gap-acceptance models. His supervisor is Prof. Partha Chakr
 **Chirag Bharat Jaiswal**: He joined the research group in July 2021 and is working on turning behavior of drivers.
 
 ***Upcoming M. Tech students (from June 2023)***:
-**Arush**
-**Aditya Mishra**
-**Bhargavi Dadi**
-**Miska Singh**
+**Arush,**
+**Aditya Mishra,**
+**Bhargavi Dadi,**
+**Miska Singh,**
 **Shiva Singh**
 
 # B. Tech students
