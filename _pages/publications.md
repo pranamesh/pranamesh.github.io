@@ -25,7 +25,7 @@ author_profile: true
 1. P. Chakroborty, R. Gill, and **P. Chakraborty**. [Analysing queueing at toll plazas using a coupled, multiple-queue, queueing system model: application to toll plaza design](https://pranamesh.github.io/files/2016-TPT-TollPlaza.pdf), *Transportation Planning and Technology*,  vol. 39, no. 7, p675-692, July 2016. [https://doi.org/10.1080/03081060.2016.1204090](https://doi.org/10.1080/03081060.2016.1204090)
 
 ## Under Review
-1. S. Poddar, **P. Chakraborty**, A. Sharma, S. Knickerbocker, and N. Hawkins. Massively parallelizable approach for evaluating signalized arterial performance using probe-based data. *Journal of Intelligent Transportation Systems*.  
+1. U. Jana, J. P. Das Karmakar, **P. Chakraborty**, T. Huang, A. Sharma. Automated Approach for Computer Vision-based Vehicle Movement Classification at Traffic Intersections. *Future Transportation*.  
 
 
 
