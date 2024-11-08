@@ -25,11 +25,12 @@ I finsihed my PhD from <a href="https://www.iastate.edu/" target="_blank">Iowa S
 
 Recent News
 ======
+* **November 2024**: Our PhD student, Tanu Singh, is starting her 3-month internship in the CSE Department of New York University, USA, as a part of the collaborative research project with Prof. Chinmay Hedge.
 * **October 2024**: Three papers from our research group accepted in <a href="https://www.civil.iitb.ac.in/tpmdc/" target="_blank">TMPDC 2024</a> to be held in December 2024 in IIT Bombay. The lead authors of the papers are Pavan Kumar Sharma, Ankita Sharma, and Chirag Jaiswal 
-* **October 2024**: One paper from our research group, authoured by Shiva Singh, Pavan Kumar Sharma and Pranamesh Chakraborty, accepted in <a href="https://trb-annual-meeting.nationalacademies.org/" target="_blank">TRB Annual Meeting 2025</a> to be held in January 2025 in Washington D.C., USA.
-* **September 2024**: Prof. Pranamesh Chakrabortywas invisted as one of  distinguished speakers in the one-day workshop on “Applications of AI & Data Science in Transportation Engineering” at IIT Patna.
-* **August 2024**: Our Research Associate, Sanjita Prajapati, has joined her PhD program in Iowa State University, USA.
-* **August 2024**: Three M. Tech students from our research group, Aditya Mishra, Shiva Singh, and Shambhu Sing, successfully defended their M. Tech thesis.
+* **October 2024**: One paper from our research group, authored by Shiva Singh, Pavan Kumar Sharma, and Pranamesh Chakraborty, accepted in <a href="https://trb-annual-meeting.nationalacademies.org/" target="_blank">TRB Annual Meeting 2025</a> to be held in January 2025 in Washington D.C., USA.
+* **September 2024**: Prof. Pranamesh Chakraborty was invited as one of  the distinguished speakers in the one-day workshop on “Applications of AI & Data Science in Transportation Engineering” at IIT Patna.
+* **August 2024**: Our Research Associate, Sanjita Prajapati, has joined her PhD program at Iowa State University, USA.
+* **August 2024**: Three M. Tech students from our research group, Aditya Mishra, Shiva Singh, and Shambhu Singh, successfully defended their M. Tech thesis.
 * **June 2024**: Our research group successfully organized a challenge track on bike helmet violation detection in <a href="https://www.aicitychallenge.org/" target="_blank">AI City challenge</a> held in CVPR, 2024 in Seattle, USA.
 * **March 2024**: Prof. Pranamesh Chakraborty and Prof. Chinmay Hegde have been awarded the NYU Tandon-IIT Kanpur Joint Research Funding Grant. NDTV news article covering this news is available <a href="https://www.ndtv.com/education/iit-kanpur-collaborates-with-new-york-university-on-7-innovative-research-projects-6237322" target="_blank">here</a>.
 * **February 2024**: Review paper on <a href="https://www.sciencedirect.com/science/article/pii/S0952197624002756" target="_blank">driver gaze estimation and appliation</a> accepted in the journal *Engineering Applications of Artificial Intelligence* (I.F. 7.5).  
