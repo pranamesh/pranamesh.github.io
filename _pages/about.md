@@ -27,7 +27,7 @@ Recent News
 ======
 * **May 2025**: Our recent paper on reinforcement learning based vehicle control at signalised intersections is now available on <a href="https://arxiv.org/abs/2505.08896" target="_blank">arXiv</a>. 
 * **May 2025**: Our recent <a href="https://link.springer.com/article/10.3758/s13428-025-02679-2" target="_blank">paper</a> on highlighting the data collection and annotation of the driver gaze dataset, authored by our PhD student Mr. Pawan Kumar Sharma and Prof. Pranamesh Chakraborty, has been published in the Behaviour Research Methods journal.
-* **April 20225**: 
+* **April 2025**: The lecture notes and slides of the course, Machine Learning and Data Analytics for Civil Engineering Applications, taught by Prof. Pranamesh Chakraborty at IIT Kanpur, is now freely available at <a href="https://pranamesh.github.io/teaching/ce784" target="_blank">here</a>.
 * **March 2025**: Our research lab has now set up a high-fidelity <a href="https://www.linkedin.com/feed/update/urn:li:activity:7315005758218084352/?actorCompanyId=102065052" target="_blank">car driving simulator</a> in collaboration with faculty members from Civil Engineering, Cognitive Science, and the Design department of IIT Kanpur.
 * **February 2025**: Our PhD student, Tanu Singh, completed her 3-month internship in the CSE Department of New York University, USA, as a part of the collaborative research project with Prof. Chinmay Hedge.
 * **January 2025**: One paper from our research group, authored by Shiva Singh, Pavan Kumar Sharma, and Pranamesh Chakraborty, accepted in <a href="https://trb-annual-meeting.nationalacademies.org/" target="_blank">TRB Annual Meeting 2025</a> to be held in January 2025 in Washington D.C., USA.
