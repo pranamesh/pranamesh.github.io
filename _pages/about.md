@@ -25,9 +25,13 @@ I finsihed my PhD from <a href="https://www.iastate.edu/" target="_blank">Iowa S
 
 Recent News
 ======
-* **November 2024**: Our PhD student, Tanu Singh, is starting her 3-month internship in the CSE Department of New York University, USA, as a part of the collaborative research project with Prof. Chinmay Hedge.
-* **October 2024**: Three papers from our research group accepted in <a href="https://www.civil.iitb.ac.in/tpmdc/" target="_blank">TMPDC 2024</a> to be held in December 2024 in IIT Bombay. The lead authors of the papers are Pavan Kumar Sharma, Ankita Sharma, and Chirag Jaiswal 
-* **October 2024**: One paper from our research group, authored by Shiva Singh, Pavan Kumar Sharma, and Pranamesh Chakraborty, accepted in <a href="https://trb-annual-meeting.nationalacademies.org/" target="_blank">TRB Annual Meeting 2025</a> to be held in January 2025 in Washington D.C., USA.
+* **May 2025**: Our recent paper on reinforcement learning based vehicle control at signalised intersections is now available on <a href="https://arxiv.org/abs/2505.08896" target="_blank">arXiv</a>. 
+* **May 2025**: Our recent <a href="https://link.springer.com/article/10.3758/s13428-025-02679-2" target="_blank">paper</a> on highlighting the data collection and annotation of the driver gaze dataset, authored by our PhD student Mr. Pawan Kumar Sharma and Prof. Pranamesh Chakraborty, has been published in the Behaviour Research Methods journal.
+* **April 20225**: 
+* **March 2025**: Our research lab has now set up a high-fidelity <a href="https://www.linkedin.com/feed/update/urn:li:activity:7315005758218084352/?actorCompanyId=102065052" target="_blank">car driving simulator</a> in collaboration with faculty members from Civil Engineering, Cognitive Science, and the Design department of IIT Kanpur.
+* **February 2025**: Our PhD student, Tanu Singh, completed her 3-month internship in the CSE Department of New York University, USA, as a part of the collaborative research project with Prof. Chinmay Hedge.
+* **January 2025**: One paper from our research group, authored by Shiva Singh, Pavan Kumar Sharma, and Pranamesh Chakraborty, accepted in <a href="https://trb-annual-meeting.nationalacademies.org/" target="_blank">TRB Annual Meeting 2025</a> to be held in January 2025 in Washington D.C., USA.
+* **December 2024**: Three papers from our research group accepted in <a href="https://www.civil.iitb.ac.in/tpmdc/" target="_blank">TMPDC 2024</a> to be held in December 2024 in IIT Bombay. The lead authors of the papers are Pavan Kumar Sharma, Ankita Sharma, and Chirag Jaiswal 
 * **September 2024**: Prof. Pranamesh Chakraborty was invited as one of  the distinguished speakers in the one-day workshop on “Applications of AI & Data Science in Transportation Engineering” at IIT Patna.
 * **August 2024**: Our Research Associate, Sanjita Prajapati, has joined her PhD program at Iowa State University, USA.
 * **August 2024**: Three M. Tech students from our research group, Aditya Mishra, Shiva Singh, and Shambhu Singh, successfully defended their M. Tech thesis.
