@@ -7,17 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the Civil Engineering department of <a href="https://www.iitk.ac.in/new/pranamesh-chakraborty" target="_blank">Indian Institute of Technology Kanpur</a>. 
+I am an Assistant Professor in the Civil Engineering department of <a href="https://www.iitk.ac.in/new/pranamesh-chakraborty" target="_blank">Indian Institute of Technology Kanpur</a>. I also hold an Adjunct Faculty position in the Kotak School of Sustainability at IIT Kanpur.
 
 
-My research focusses on applying deep-learning based computer vision techniques and large-scale data analytics for solving transportation engineering problems. 
+My research focuses on applying deep-learning-based computer vision techniques, reinforcement learning for vehicle control, and driver behavior understanding in real-world and simulated traffic conditions. 
 
 
 I finsihed my PhD from <a href="https://www.iastate.edu/" target="_blank">Iowa State University</a> in 2019 working with <a href="https://www.ccee.iastate.edu/directory/?user_page=anujs" target="_blank">Dr. Anuj Sharma</a> & <a href="http://home.engineering.iastate.edu/~chinmay/" target="_blank">Dr. Chinmay Hegde</a>. My Masters degree was from <a href="http://www.iitk.ac.in/" target="_blank">Indian Institute of Technology Kanpur</a> working with <a href="http://home.iitk.ac.in/~partha/" target="_blank">Dr. Partha Chakroborty</a> and my Bachelors degree from <a href="http://www.iiests.ac.in/" target="_blank">BESU, Shibpur</a> (present IIEST, Shibpur).
 
-**(New) Positions available:**  I am looking for PhD and PostDoc candidates with strong academic background intererested to work on exciting real-world intelligent transportation systems problems related to machine learning, computer vision, and reinforcement learning. Candidates with only Bachelor’s degree in Civil Engineering having an excellent academic record can also apply for PhD degree.
+**(New) Positions available:** I am looking for PhD and PostDoc candidates with a strong academic background interested in working on exciting problems related to machine learning, computer vision, reinforcement learning, and driver behavior understanding (driving simulator and real-world conditions). Candidates with only a Bachelor’s degree in Civil Engineering, having an excellent academic record, can also apply for a PhD degree.
 
-[//]: # Undergraduate students of IIT Kanpur interested in doing B. Tech projects can directly contact me by email.
+I am looking for undergraduate students interested in doing B. Tech projects related to simulated traffic scene generation (using Unity).
 
 **Contact**: pranames@iitk.ac.in; pranameshbesu@gmail.com
 
@@ -25,6 +25,7 @@ I finsihed my PhD from <a href="https://www.iastate.edu/" target="_blank">Iowa S
 
 Recent News
 ======
+* **June 2025**: Prof. Pranamesh Chakraborty recently visited New York University and Iowa State University, USA for collaborative projects related discussion.
 * **May 2025**: Our recent paper on reinforcement learning based vehicle control at signalised intersections is now available on <a href="https://arxiv.org/abs/2505.08896" target="_blank">arXiv</a>. 
 * **May 2025**: Our recent <a href="https://link.springer.com/article/10.3758/s13428-025-02679-2" target="_blank">paper</a> on highlighting the data collection and annotation of the driver gaze dataset, authored by PhD student Mr. Pavan Kumar Sharma and Prof. Pranamesh Chakraborty, has been published in the Behaviour Research Methods journal.
 * **April 2025**: The lecture notes and slides of the course, Machine Learning and Data Analytics for Civil Engineering Applications, taught by Prof. Pranamesh Chakraborty at IIT Kanpur, is now freely available at <a href="https://pranamesh.github.io/teaching/ce784" target="_blank">here</a>.
