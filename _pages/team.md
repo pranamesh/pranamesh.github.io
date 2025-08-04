@@ -13,14 +13,14 @@ author_profile: true
 **PhD positions available**: I am looking for motivated students with strong academic background intererested to work on exciting real-world intelligent transportation systems problems related to machine learning, computer vision, and large-scale data anlaytics. Interested candidates can contact me via email along with their CV and research interests.
 
 # PhD students
+**Saurabh Srivastava**: 
+Saurabh Srivastava joined the research group in 2024 and is co-supervised by Prof. Aditya Medury, IITK CE. His research work is on simulator based driver behavior understanding.
+
 **Tanu Singh (PMRF Scholar):**
 Tanu Joined the research group in December 2022 and her research work in on traffic incident detection. Her co-supervisor is Prof. Long Trong from La-Trobe University, Australia.
 
 **Pankaj Kumar**: 
-Pankaj joined the research group in December 2022. His work is on naturalistic driving study for Indian traffic.
-
-**Udita Jana (PMRF Scholar):** 
-Udita joined the research group in December 2020. Her work is on camera vased intersection monitoring and management.
+Pankaj joined the research group in December 2022. His work is on reinforecement-learning based vehicle control strategy.
 
 **Pavan Kumar Sharma**:
 Pavan Joined the research group in December 2020. His work is on driver gaze behavior.
@@ -30,45 +30,38 @@ Ankita is working on gap-acceptance models. His supervisor is Prof. Partha Chakr
 
 
 # M. Tech students
-**Hardik Gupta**: He joined the research group in July 2022 and is working on driver anomaly detection.
+**Anshuman Kumar Yadav**: He joined the research group in May 2025 and is working on driver behavior understanding using driving simulator.
 
-**Shambhu Singh**: He joined the research group in July 2022 and is working on motorbike driver behavior.
+**Srasthi Singh**: She joined the research group in May 2025 and is working on driver gaze behavior understanding.
 
-**Chirag Bharat Jaiswal**: He joined the research group in July 2021 and is working on turning behavior of drivers.
+**Rupak Kumar**: He joined the research group in May 2025 and is working on ride-hailing app driver behavior understanding.
 
-***Upcoming M. Tech students (from June 2023)***:
-**Arush**
+**Shashwat Rajbanshi**: He joined the research group in May 2024 and has been working on vision-language models.
 
-**Aditya Mishra**
-
-**Bhargavi Dadi**
-
-**Miska Singh**
-
-**Shiva Singh**
 
 # B. Tech students
-**Priyanshu Kumar**
+**Anant Srivastava**
 
-**Raj Arya**
+**Vasudeva H N**
 
-**Shivanshu Tyagi**
+**Yogdeep Singh Rajawat**
 
-
+**Gopal Tiwari**
 
 # Alumni
 ### M. Tech students
-3. Sahil Jaiswal: He graduated in 2022 and is currently working in Sigmoid.
-2. Nasim Akhtar (co-supervised by Prof. Partha Chakroborty). He graduated in 2021 and is currently working in VR Techniche Pvt. Ltd. 
-1. Shivom Bhargava. He graduated in 2021 and is currently working in Tiger Analytics.
+10. Arush: He graduated in 2024 (with B. Tech-M. Tech Dual degree) and joined Merai Newage Pvt. Ltd.
+9. Miska Singh: She graduated in 2024 and joined Accenture Strategy and Consulting.
+8. Shiva Singh: He graduated in 2024 and joined Merai Newage Pvt. Ltd.
+7. Aditya Mishra: He graduated in 2024 and joined Decision Point Analytics.
+6. Shambhu Singh: He graduated in 2024.
+5. Chirag Bharat Jaiswal: He graduated in 2023 was joined Samsung R&D.
+4. Susmit Singh: He graduated in 2022 and was supervised by Prof. Sudhir Mishra, IITK CE.
+3. Sahil Jaiswal: He graduated in 2022 and joined Sigmoid.
+2. Nasim Akhtar (co-supervised by Prof. Partha Chakroborty). He graduated in 2021 and joined VR Techniche Pvt. Ltd. 
+1. Shivom Bhargava. He graduated in 2021 and joined Tiger Analytics. He is currently working at Ernst & Young (EY).
 
-### B. Tech students
-6. Arush (2022-23 Sem I)
-5. Vineet Yadav (2022-23 Sem I)
-4. Yash Vardha Raizada (2021-22 Sem II, 2020-21 Sem I) 
-3. Lakshay Middha (2021-22 Sem I)
-2. Smriti Chattani (Surge Program, 2020)
-1. Disha Rajora (2019-20 Sem II)
+
 
 
 
