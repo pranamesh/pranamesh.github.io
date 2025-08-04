@@ -26,7 +26,7 @@ I am looking for undergraduate students interested in doing B. Tech projects rel
 Recent News
 ======
 * **July 2025**: Our paper on reinforcement learning based vehicle control in stop-and-go traffic, authored by M. Tech student Aditya Mishra and PhD student Pankaj Kumar, has been accepted at 8th CTRG, 2025.  
-* **June 2025**: Prof. Pranamesh Chakraborty recently visited New York University and Iowa State University, USA for collaborative projects related discussion.
+* **June 2025**: Prof. Pranamesh Chakraborty recently visited New York University and Iowa State University, USA for collaborative project work.
 * **May 2025**: Our recent paper on reinforcement learning based vehicle control at signalised intersections is now available on <a href="https://arxiv.org/abs/2505.08896" target="_blank">arXiv</a>. 
 * **May 2025**: Our recent <a href="https://link.springer.com/article/10.3758/s13428-025-02679-2" target="_blank">paper</a> on highlighting the data collection and annotation of the driver gaze dataset, authored by PhD student Mr. Pavan Kumar Sharma and Prof. Pranamesh Chakraborty, has been published in the Behaviour Research Methods journal.
 * **April 2025**: The lecture notes and slides of the course, Machine Learning and Data Analytics for Civil Engineering Applications, taught by Prof. Pranamesh Chakraborty at IIT Kanpur, is now freely available at <a href="https://pranamesh.github.io/teaching/ce784" target="_blank">here</a>.
