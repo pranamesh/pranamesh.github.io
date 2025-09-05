@@ -25,6 +25,7 @@ I am looking for undergraduate students interested in doing B. Tech projects rel
 
 Recent News
 ======
+* **September 2025**: Prof. Pranamesh Chakraborty recently joined as an esteemed speaker in a roundtable discussion on "SHIFT Transport – Data-Driven Decision Making for India’s Urban Mobility" in Connect Karo 2025, organised by WRI India.
 * **July 2025**: Our paper on reinforcement learning based vehicle control in stop-and-go traffic, authored by M. Tech student Aditya Mishra and PhD student Pankaj Kumar, has been accepted at 8th CTRG, 2025.  
 * **June 2025**: Prof. Pranamesh Chakraborty recently visited New York University and Iowa State University, USA for collaborative project work.
 * **May 2025**: Our recent paper on reinforcement learning based vehicle control at signalised intersections is now available on <a href="https://arxiv.org/abs/2505.08896" target="_blank">arXiv</a>. 
