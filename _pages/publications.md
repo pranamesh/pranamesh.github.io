@@ -28,8 +28,9 @@ author_profile: true
 1. P. Chakroborty, R. Gill, and **P. Chakraborty**. [Analysing queueing at toll plazas using a coupled, multiple-queue, queueing system model: application to toll plaza design](https://pranamesh.github.io/files/2016-TPT-TollPlaza.pdf), *Transportation Planning and Technology*,  vol. 39, no. 7, p675-692, July 2016. [https://doi.org/10.1080/03081060.2016.1204090](https://doi.org/10.1080/03081060.2016.1204090)
 
 ## Under Review
-1.	P. Kumar, A. Mishra, **P. Chakraborty**, & S. S. Peruru. Deep reinforcement learning-based longitudinal control strategy for automated vehicles at signalised intersections. *Engineering Applications of Artificial Intelligence*.
-2.	S. Singh, P. K. Sharma, &  **P. Chakraborty**. Influence of camera position & fusion of multiple cameras for driver gaze estimation. *Transportation Letters: The International Journal of Transportation Research*.
+1. M. Singh, T. Singh, & **P. Chakraborty**. Analysis of  Pedestrian Gaze Direction and Gaze Focus at Unsignalized Traffic Intersections. *Transportation Research Record*.
+2.	P. Kumar, A. Mishra, **P. Chakraborty**, & S. S. Peruru. Deep reinforcement learning-based longitudinal control strategy for automated vehicles at signalised intersections. *Engineering Applications of Artificial Intelligence*.
+3.	S. Singh, P. K. Sharma, &  **P. Chakraborty**. Influence of camera position & fusion of multiple cameras for driver gaze estimation. *Transportation Letters: The International Journal of Transportation Research*.
 
 
 
