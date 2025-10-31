@@ -11,6 +11,7 @@ author_profile: true
 {% include base_path %}
 
 # Journal papers
+16.S. Mandal, A. Das, & **P. Chakraborty**. (2025). <a href="https://doi.org/10.1080/10298436.2025.2570400" target="_blank">Tracking asphalt droplets and quantification of flocculation and coalescence during the breaking of emulsion on aggregate surface<a>. *International Journal of Pavement Engineering*, article. 2570400. <a href="https://doi.org/10.1080/10298436.2025.2570400" target="_blank">https://doi.org/10.1080/10298436.2025.2570400<a>
 15. P. K. Sharma & **P. Chakraborty**. (2025). <a href="https://doi.org/10.3758/s13428-025-02679-2" target="_blank">Evaluation of data collection and annotation approaches of driver gaze dataset<a>. *Behavior Research Methods*, vol. 57, article. 172. <a href="https://doi.org/10.3758/s13428-025-02679-2" target="_blank">https://doi.org/10.3758/s13428-025-02679-2<a>
 14. P.K. Sharma & **P. Chakraborty**. (2024). <a href="https://doi.org/10.1016/j.engappai.2024.108117" target="_blank">A review of driver gaze estimation and application in gaze behavior understanding.<a> *Engineering Applications of Artificial Intelligence*, vol. 133, article. 108117. <a href="https://doi.org/10.1016/j.engappai.2024.108117" target="_blank">https://doi.org/10.1016/j.engappai.2024.108117<a>
 13. U. Jana, J.P.D. Karmakar, **P. Chakraborty**, T. Huang, & A. Sharma. (2023). <a href="https://doi.org/10.3390/futuretransp3020041" target="_blank">Automated Approach for Computer Vision-Based Vehicle Movement Classification at Traffic Intersections<a>. *Future Transportation*, vol. 3, issue 2, pp. 708–725. <a href="https://doi.org/10.3390/futuretransp3020041" target="_blank">https://doi.org/10.3390/futuretransp3020041<a>.
@@ -28,9 +29,8 @@ author_profile: true
 1. P. Chakroborty, R. Gill, and **P. Chakraborty**. [Analysing queueing at toll plazas using a coupled, multiple-queue, queueing system model: application to toll plaza design](https://pranamesh.github.io/files/2016-TPT-TollPlaza.pdf), *Transportation Planning and Technology*,  vol. 39, no. 7, p675-692, July 2016. [https://doi.org/10.1080/03081060.2016.1204090](https://doi.org/10.1080/03081060.2016.1204090)
 
 ## Under Review
-1. M. Singh, T. Singh, & **P. Chakraborty**. Analysis of  Pedestrian Gaze Direction and Gaze Focus at Unsignalized Traffic Intersections. *Transportation Research Record*.
-2.	P. Kumar, A. Mishra, **P. Chakraborty**, & S. S. Peruru. Deep reinforcement learning-based longitudinal control strategy for automated vehicles at signalised intersections. *Engineering Applications of Artificial Intelligence*.
-3.	S. Singh, P. K. Sharma, &  **P. Chakraborty**. Influence of camera position & fusion of multiple cameras for driver gaze estimation. *Transportation Letters: The International Journal of Transportation Research*.
+1.	P. Kumar, A. Mishra, **P. Chakraborty**, & S. S. Peruru. Deep reinforcement learning-based longitudinal control strategy for automated vehicles at signalised intersections. *Engineering Applications of Artificial Intelligence*.
+2.	S. Singh, P. K. Sharma, &  **P. Chakraborty**. Influence of camera position & fusion of multiple cameras for driver gaze estimation. *Transportation Letters: The International Journal of Transportation Research*.
 
 
 
